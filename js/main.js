@@ -39,3 +39,30 @@ console.log(frutas);
 alert(frutas[1].nome);*/
 
 //Condicionais
+/*var idade = prompt("Qual sua idade?");
+if (idade >= 18){
+    alert("maior de idade");
+}else{
+    alert("menor de idade");
+}*/
+
+//Laços de repetição
+/*var count = 0;
+while (count <= 5){
+    console.log(count);
+    alert(count);
+    count++;    //count = count + 1  
+}*/
+/*var count;
+for(count = 0; count <= 5; count++){
+    alert(count);
+}*/
+
+//Date
+/*var d = new Date();
+alert(d);
+alert(d.getMonth() + 1); // conta a partir do 0
+alert(d.getDate()); //dia do mês
+alert(d.getDay()); //dia da semana a apartir do 0
+alert(d.getHours());
+alert(d.getMinutes());*/
